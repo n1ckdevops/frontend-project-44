@@ -23,7 +23,3 @@ export const startGame = (gameSettings, gameMessage) => {
   }
   counter === 3 ? console.log(`Congratulations, ${userName}`) : null;
 };
-// we did the game!!
-// yes, i should not have taken help from gpt, but still, that was a bit
-// now you know and I DO know how and why sth HERE might NOT work properly
-// GOOD LUCK!
