@@ -30,3 +30,52 @@ Brain Games is a collection of simple math and logic mini-games you can play in 
 ## 5. **Brain-prime game** - Check if a number is prime.
 
 [![asciicast](https://asciinema.org/a/710500.svg)](https://asciinema.org/a/710500)
+
+---
+
+## 🛠 How to Install and Run Locally
+
+To set up and run the project on your local machine, follow these steps:
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/n1ckdevops/frontend-project-44.git
+cd frontend-project-44
+```
+
+2. **Install dependencies**:
+   Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
+
+```bash
+npm install
+```
+
+3. **Run the games**:
+   Each game can be started by running its respective command:
+
+- Brain-even game:
+  ```bash
+  brain-even
+  ```
+- Brain-calc game:
+  ```bash
+  brain-calc
+  ```
+- Brain-gcd game:
+  ```bash
+  brain-gcd
+  ```
+- Brain-progression game:
+  ```bash
+  brain-progression
+  ```
+- Brain-prime game:
+  ```bash
+  brain-prime
+  ```
+
+4. **Enjoy the games**:
+   Follow the instructions in the terminal to play each game.
+
+---
