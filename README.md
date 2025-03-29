@@ -9,30 +9,6 @@
 
 Brain Games is a collection of simple math and logic mini-games you can play in the terminal! Each game asks you a question, and you need to type the correct answer.
 
-## 🎥 Demos
-
-## 1. **Brain-even game** – Guess if a number is even or odd.
-
-[![asciicast](https://asciinema.org/a/708330.svg)](https://asciinema.org/a/708330)
-
-## 2. **Brain-calc game** - Solve basic math problems.
-
-[![asciicast](https://asciinema.org/a/709541.svg)](https://asciinema.org/a/709541)
-
-## 3. **Brain-gcd game** - Find the greatest common divisor of two numbers.
-
-[![asciicast](https://asciinema.org/a/710249.svg)](https://asciinema.org/a/710249)
-
-## 4. **Brain-progression game** - Find the missing number in a sequence.
-
-[![asciicast](https://asciinema.org/a/710451.svg)](https://asciinema.org/a/710451)
-
-## 5. **Brain-prime game** - Check if a number is prime.
-
-[![asciicast](https://asciinema.org/a/710500.svg)](https://asciinema.org/a/710500)
-
----
-
 ## 🛠 How to Install and Run Locally
 
 To set up and run the project on your local machine, follow these steps:
@@ -48,7 +24,7 @@ cd frontend-project-44
    Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
 
 ```bash
-npm install
+make install
 ```
 
 3. **Run the games**:
@@ -75,7 +51,38 @@ npm install
   brain-prime
   ```
 
-4. **Enjoy the games**:
-   Follow the instructions in the terminal to play each game.
+## 🎥 Demos
 
+## 1. **Brain-even game** – Guess if a number is even or odd.
+
+[![asciicast](https://asciinema.org/a/708330.svg)](https://asciinema.org/a/708330)
+
+## 2. **Brain-calc game** - Solve basic math problems.
+
+[![asciicast](https://asciinema.org/a/709541.svg)](https://asciinema.org/a/709541)
+
+## 3. **Brain-gcd game** - Find the greatest common divisor of two numbers.
+
+[![asciicast](https://asciinema.org/a/710249.svg)](https://asciinema.org/a/710249)
+
+## 4. **Brain-progression game** - Find the missing number in a sequence.
+
+[![asciicast](https://asciinema.org/a/710451.svg)](https://asciinema.org/a/710451)
+
+## 5. **Brain-prime game** - Check if a number is prime.
+
+[![asciicast](https://asciinema.org/a/710500.svg)](https://asciinema.org/a/710500)
+
+---
+
+## About the Author
+
+👨‍💻 **Nikita** – Frontend Developer
+
+I’m a passionate frontend developer. I enjoy building user-friendly and accessible web applications. This project is one of my personal endeavors to create useful tools and games in the terminal.
+
+You can reach me at:
+- 📧 Email: [nickdevops6@gmail.com](mailto:nickdevops6@gmail.com)
+- 🔗 GitHub: [@n1ckdevops](https://github.com/n1ckdevops)
+- 💼 LinkedIn: [nikita-profile](https://www.linkedin.com/in/nickdevops/)
 ---
