@@ -8,7 +8,7 @@ export const gameSettings = () => {
   const step = randomNum(1, 10);
   const missingNum = randomNum(0, length - 1);
   const result = [];
-  for (let i = 0; i < length; i++) {
+  for (let i = 0; i < length; i += 1) {
     result.push(initNum + i * step);
   }
   const correctAnswer = result[missingNum];

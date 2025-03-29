@@ -18,6 +18,8 @@ export const gameSettings = () => {
     case '*':
       correctAnswer = num1 * num2;
       break;
+    default:
+      throw new Error(`Invalid operator: ${operator}`);
   }
   return [question, correctAnswer.toString()];
 };

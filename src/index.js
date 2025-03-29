@@ -3,7 +3,7 @@ import welcomeMessage from './cli.js';
 
 // GAME LOGIC OF ALL 5 GAMES.
 
-export const startGame = (gameSettings, gameMessage) => {
+const startGame = (gameSettings, gameMessage) => {
   let counter = 0;
   const userName = welcomeMessage();
   console.log(gameMessage);
@@ -13,13 +13,15 @@ export const startGame = (gameSettings, gameMessage) => {
     const answer = readlineSync.question('Your answer: ');
     if (answer === correctAnswer) {
       console.log('Correct!');
-      counter++;
+      counter += 1;
     } else {
       console.log(
-        `${answer} is wrong answer ;(. Correct answer was ${correctAnswer}\nLet's try again, ${userName}!`
+        `${answer} is wrong answer ;(. Correct answer was ${correctAnswer}\nLet's try again, ${userName}!`,
       );
       break;
     }
   }
-  counter === 3 ? console.log(`Congratulations, ${userName}!`) : null;
+  return counter === 3 ? console.log(`Congratulations, ${userName}!`) : null;
 };
+
+export default startGame;
