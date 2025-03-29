@@ -16,7 +16,7 @@ export const startGame = (gameSettings, gameMessage) => {
       counter++;
     } else {
       console.log(
-        `${answer} is wrong answer ;(. Correct answer was ${correctAnswer}\nLet's try again, ${userName}`
+        `${answer} is wrong answer ;(. Correct answer was ${correctAnswer}\nLet's try again, ${userName}!`
       );
       break;
     }
