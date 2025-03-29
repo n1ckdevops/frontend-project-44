@@ -22,3 +22,7 @@
 ## 4. Brain-progression game
 
 [![asciicast](https://asciinema.org/a/710451.svg)](https://asciinema.org/a/710451)
+
+## 5. Brain-prime game
+
+[![asciicast](https://asciinema.org/a/710500.svg)](https://asciinema.org/a/710500)
