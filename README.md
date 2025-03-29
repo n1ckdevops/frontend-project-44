@@ -5,24 +5,28 @@
 
 ---
 
-# BRAIN-GAMES:
+# 🚀 BRAIN-GAMES
 
-## 1. Brain-even game
+Brain Games is a collection of simple math and logic mini-games you can play in the terminal! Each game asks you a question, and you need to type the correct answer.
+
+## 🎥 Demos
+
+## 1. **Brain-even game** – Guess if a number is even or odd.
 
 [![asciicast](https://asciinema.org/a/708330.svg)](https://asciinema.org/a/708330)
 
-## 2. Brain-calc game
+## 2. **Brain-calc game** - Solve basic math problems.
 
 [![asciicast](https://asciinema.org/a/709541.svg)](https://asciinema.org/a/709541)
 
-## 3. Brain-gcd game
+## 3. **Brain-gcd game** - Find the greatest common divisor of two numbers.
 
 [![asciicast](https://asciinema.org/a/710249.svg)](https://asciinema.org/a/710249)
 
-## 4. Brain-progression game
+## 4. **Brain-progression game** - Find the missing number in a sequence.
 
 [![asciicast](https://asciinema.org/a/710451.svg)](https://asciinema.org/a/710451)
 
-## 5. Brain-prime game
+## 5. **Brain-prime game** - Check if a number is prime.
 
 [![asciicast](https://asciinema.org/a/710500.svg)](https://asciinema.org/a/710500)
