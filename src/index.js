@@ -21,5 +21,5 @@ export const startGame = (gameSettings, gameMessage) => {
       break;
     }
   }
-  counter === 3 ? console.log(`Congratulations, ${userName}`) : null;
+  counter === 3 ? console.log(`Congratulations, ${userName}!`) : null;
 };
