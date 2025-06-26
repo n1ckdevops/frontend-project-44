@@ -79,10 +79,10 @@ make install
 
 👨‍💻 **Nikita** – Frontend Developer
 
-I’m a passionate frontend developer. I enjoy building user-friendly and accessible web applications. This project is one of my personal endeavors to create useful tools and games in the terminal.
+
 
 You can reach me at:
 - 📧 Email: [nickdevops6@gmail.com](mailto:nickdevops6@gmail.com)
 - 🔗 GitHub: [@n1ckdevops](https://github.com/n1ckdevops)
-- 💼 LinkedIn: [nikita-profile](https://www.linkedin.com/in/nickdevops/)
+- 💼 LinkedIn: [Kuchinsky Mikita](https://www.linkedin.com/in/nickdevops/)
 ---
